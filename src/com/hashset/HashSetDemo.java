@@ -11,6 +11,7 @@ public class HashSetDemo {
 		set.add(200);
 		set.add(300);
 		
+
 		set.stream().forEach(x->System.out.println(x));
 
 	}
